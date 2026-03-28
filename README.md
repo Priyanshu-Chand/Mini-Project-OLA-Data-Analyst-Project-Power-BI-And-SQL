@@ -115,7 +115,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM Successful_Bookings;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20062720.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20062720.png)
 
 ---
 
@@ -136,7 +136,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM ride_distance_for_each_vehicle;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063354.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063354.png)
 
 ---
 
@@ -157,7 +157,7 @@ WHERE Booking_Status = 'cancelled by Customer';
 SELECT * FROM cancelled_rides_by_customers;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063653.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063653.png)
 
 ---
 
@@ -180,7 +180,7 @@ LIMIT 5;
 SELECT * FROM Top_5_Customers;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063859.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063859.png)
 
 ---
 
@@ -201,7 +201,7 @@ WHERE cancelled_Rides_by_Driver = 'Personal & Car related issue';
 SELECT * FROM Rides_cancelled_by_Drivers_P_C_Issues;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064122.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064122.png)
 
 ---
 
@@ -223,7 +223,7 @@ WHERE Vehicle_Type = 'Prime Sedan';
 SELECT * FROM Max_Min_Driver_Rating;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064314.png)
+![Description of the screenshot](https://github.com/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064314.png)
 
 ---
 
@@ -244,7 +244,7 @@ WHERE Payment_Method = 'UPI';
 SELECT * FROM UPI_Payment;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064820.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064820.png)
 
 ---
 
@@ -265,7 +265,7 @@ GROUP BY Vehicle_Type;
 SELECT * FROM AVG_Cust_Rating;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064923.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064923.png)
 
 ---
 
@@ -286,7 +286,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM total_successful_ride_value;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065052.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065052.png)
 
 ---
 
@@ -307,7 +307,7 @@ WHERE Incomplete_Rides = 'Yes';
 SELECT * FROM Incomplete_Rides_Reason;
 ```
 
-![Description of the screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065216.png)
+![Description of the screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065216.png)
 
 ---
 
@@ -336,10 +336,10 @@ This file simplifies setting up the project and ensures all queries and views ar
 
 ## File Details 📁
 
-- **File Name**: `Ola DA Project SQL.sql` [Download File](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20SQL.sql)
+- **File Name**: `Ola DA Project SQL.sql` [Download File](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20SQL.sql)
 - **Size**: `4 KB`
 
-- **File Name**: `Bookings.csv` [Download File](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
+- **File Name**: `Bookings.csv` [Download File](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
 - **Size**: `15.5 MB`
 
 </details>
@@ -373,7 +373,7 @@ This Power BI project provides a comprehensive analysis of OLA's operational and
 
 ---
 
-![App Screenshot](https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png)
+![App Screenshot](https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png)
 
 ---
 
@@ -432,7 +432,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Booking Status Breakdown: Display the distribution of completed, canceled, and pending bookings.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png"  />
+    <img src="https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png"  />
 </div>
 </ul>
 
@@ -441,7 +441,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Top 5 Vehicle Types by Ride Distance: Show the top 5 vehicle types based on ride distance.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201113.png"  />
+    <img src="https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201113.png"  />
 </div>
 </ul>
 
@@ -452,7 +452,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Ride Distance Distribution Per Day: Display the distribution of ride distances on a daily basis.</li> 
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201137.png"  />
+    <img src="https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201137.png"  />
 </div> 
 </ul>
 
@@ -462,7 +462,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Cancelled Rides Reasons (Driver): Show the reasons behind canceled rides by drivers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201201.png"  />
+    <img src="https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201201.png"  />
 </div>
 </ul>
 
@@ -472,7 +472,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Customer Ratings: Display the distribution of ratings given by customers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/Priyanshu-Chand/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201233.png"  />
+    <img src="https://github.com/Priyanshu-Chand/Mini-Project-OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201233.png"  />
 </div>
 </ul>
 </ol>
